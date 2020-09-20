@@ -3,7 +3,7 @@ import time
 comp_input=['stone','paper','scissor']
 c=0
 u=0
-print("Enter scissor, paper or stone")
+print("Enter stone, paper or scissor")
 time.sleep(2)
 rounds=int(input("Enter no. of rounds you want to play? "))
 time.sleep(1)
